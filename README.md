@@ -1,2 +1,2 @@
 # Password-Generator
-A GUI based password generator designed to avoid another weak and easy to crack password.Every website you login daily push you to create a new password. lets avoid being another target of cyber frauds, generate passwords of any length, which will be secured and easy to remember with memorabilty mode.
+Use this to generate random passwords GUI costomiable user friendly personalised with strenght meter and memorability mode available in the generator. Every time you login to a new website you are pushed to create a new password, lets make sure it's secured, safe and not easy to remember.
