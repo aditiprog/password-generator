@@ -1,8 +1,8 @@
 # Problem statement : 
 There are many passwords to remember, in our daily lives we login to multiple websites, phone passwords, multiple devices are there which a person use and its difficult to every time think of a password that is easy to remember and also safe, secure to be used in the modern worlds were cracking a password for a hacker is as easy as eating peanuts. People are targeted, and get deceived very easily in the cyber world, while handling multiple passwords people end up creating a weak and less secured passwords just to remember it easily, they don’t spend much time on security of their devices, sites, data and hence becomes the easy target of any hacker of cyber fraud.
---- many passwords to remember 
---- easily cracked by hackers
-----no time to think better passwords
+- many passwords to remember 
+- easily cracked by hackers
+- no time to think better passwords
 
 # scope of the project: 
 the project focuses on building a python application that generates passwords,with costomizable length and key features such as :- 
