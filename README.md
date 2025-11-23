@@ -4,14 +4,14 @@
 Use this to generate random passwords GUI costomiable user friendly personalised with strenght meter and memorability mode available in the generator. Every time you login to a new website you are pushed to create a new password, lets make sure it's secured, safe and not easy to remember.
 
 
-features :- -costomizable passwords of any required length, combination of english + hindi language characters according to user's desire.
-            -multilingual passwords ( hindi, english, mixed)
-            -copy to clipboard available!
-            -GUI integrated built with tkinter
-            -memorability mode (add your details: name, any date, event, etc)
-            -strength meter ( check the strength and weakness of your generated password)
-            -ensures security, user friendly and personalized 
-            -scalable (more functions can be added to the project)
+features :-
+- costomizable passwords of any required length, combination of english + hindi language characters according to user's desire.
+- multilingual passwords ( hindi, english, mixed)
+- copy to clipboard available!
+- GUI integrated built with tkinter
+- memorability mode (add your details: name, any date, event, etc)
+- strength meter ( check the strength and weakness of your generated password) - ensures security, user friendly and personalized 
+- scalable (more functions can be added to the project)
 personalised functions : #memorability mode : any desired names, dates, event can be added to the password to make it easily memorable but still secured and protected to ensure user safety.
 #multilingual characters : the password gives user choice to generate passwords of any length in hindi and english or both languages, totally based on user preference. it includes the combination of uppercase, lowercase, digits, special characters, hindi language( devnagri) characters and english language alphabets
 
