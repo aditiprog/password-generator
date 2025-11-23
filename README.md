@@ -4,9 +4,9 @@
 Use this to generate random passwords GUI costomiable user friendly personalised with strenght meter and memorability mode available in the generator. Every time you login to a new website you are pushed to create a new password, lets make sure it's secured, safe and not easy to remember.
 
 
-features :- 1.costomizable passwords of any required length, combination of english + hindi language characters according to user's desire.\n
-            2.multilingual passwords ( hindi, english, mixed)\n
-            3.copy to clipboard available!\n
+features :- 1.costomizable passwords of any required length, combination of english + hindi language characters according to user's desire.
+            2.multilingual passwords ( hindi, english, mixed)
+            3.copy to clipboard available!
             4.GUI integrated built with tkinter
             5.memorability mode (add your details: name, any date, event, etc)
             6.strength meter ( check the strength and weakness of your generated password)
@@ -21,8 +21,56 @@ user inputs : 1. password length
               2. memorablity details 
               3. language to be used
               4. strength meter 
-              5. copy to clipboard option
+              5. copy to clipboard functionality
 password will be generated according to the details provided by the users its completely personalized, however it does not compromise with the security it ensures the memorable details doesn't exceed much and notify the user about the passwords length to be exceeding ot even if being too small.
 #screenshots <img width="1920" height="1080" alt="Screenshot 2025-11-23 153801" src="https://github.com/user-attachments/assets/5be1b109-f8e0-4851-8008-e9a0bdfdc630" />
+
+#TECHNOLOGIES USED :
+#programming language: python
+python--3.11
+libraries used :
+random module
+string
+tkinter
+tkk - Themed Tkinter Widgets
+
+#instalation and setup--
+Prerequisites
+- Python installed on your system
+- Works on Windows, macOS, and Linux
+- No external dependencies beyond the Python standard library (random, string, tkinter)
+2. Clone the Repository
+3. run the application
+
+#INSTRUCTIONS FOR TESTING: 
+Functional Tests
+- Minimum Length Validation (length less than 4 should show an error) 
+- Memorablility details Validation (words exceeding password limits must be showing an error)
+- select Language Mode
+- both english and hindi language should have the combination of thier own character sets and mixed with have both cahrs combined.
+- Strength meter-it will show the password strength( weak/ moderate / strong)
+- Clipboard Copy
+- Click Copy to Clipboard → password should be available to paste anywhere else.
+GUI Tests
+- Check that all labels, buttons, and fields are aligned and styled correctly.
+- Verify that error messages appear in red and disappear when corrected.
+- Ensure the footer "talk doesn't cook rice – made by aditi" is visible at the bottom.
+
+future planned enhancements : 
+- save password history to file
+- entrophy score display
+- modular refractor for better redeability
+- passphrases over passwords( complex still easy to remember)
+- cryptographic muscle
+  
+#screenshots of different multilinguistic passwords: 
+
+
+#AUTHOR :
+by - Aditi Sharma (25BCY10070)
+BTECH.CSE COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY AND DIGITAL FORENSICS)
+VIT, BHOPAL 
+
+
 
                             
